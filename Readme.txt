@@ -2,4 +2,4 @@ Application TODOLIST
 
 Import Database via phpmyadmin
 
-access to site localhost/app
+access to site localhost/app2
